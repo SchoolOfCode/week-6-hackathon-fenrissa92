@@ -57,3 +57,8 @@ Our latest Hackathon challenge was to culminate all of our learning for this wee
  - [ChatGPT](https:chatgpt.com)
  - [W3School](https://www.w3schools.com/)
  - [readme](https://readme.so/editor)
+
+ ## Lessons Learned Throughout The Project
+- We learned how to write tests for our code and how to test for different types of outputs.
+- We learned how to use Vitest, and how to run tests using the command line.
+- We learned how to structure our tests and how to write them in a way that is easy to read and understand.
