@@ -16,3 +16,7 @@ test("should handle uppercase and lowercase correctly", () => {
 test("should handle an empty string", () => {
   expect(reverseText("")).toBe("");
 });
+
+test("should return a string type", () => {
+  expect(typeof reverseText("hello")).toBe("string");
+});
