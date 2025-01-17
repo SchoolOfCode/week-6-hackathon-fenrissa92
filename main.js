@@ -9,5 +9,5 @@
 //The input may include spaces and mixed case letters.
 
 export function reverseText(str) {
-    return str.split("").reverse().join("");
-  }
+  
+}
