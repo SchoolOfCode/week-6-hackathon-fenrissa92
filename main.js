@@ -1,4 +1,4 @@
-//Task: Write a function `reverseText` that reverses the input string completely.
+//Hello challenger! Your task is to write a function named `reverseText` that reverses the input string completely.
  
 //Examples:
 // reverseText("john McClane") -> "enalCcm nhoj"
